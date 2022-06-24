@@ -6,7 +6,7 @@ The main result was of a Single-Page Application with 3 main sections, which cou
 
 ## Main Functionalities
 
-![Features Example](https://i.imgur.com/J4ZViOm.gif)
+![Features Example](https://i.imgur.com/Nw8A2zB.gif)
 
 ### Navigation Buttons
 - Select different pages of the application 
